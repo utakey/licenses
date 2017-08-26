@@ -45,6 +45,15 @@
         ]
     },
     {
+        "id": "BSD-4",
+        "identifiers": [
+            {
+                "identifier": "BSD-4-clause",
+                "scheme": "DEP5"
+            }
+        ]
+    },
+    {
         "id": "ISC",
         "identifiers": [
             {
